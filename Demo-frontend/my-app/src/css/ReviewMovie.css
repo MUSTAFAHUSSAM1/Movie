@@ -1,0 +1,13 @@
+.rev-container{
+    text-align: left;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    margin-bottom: 1rem;
+    margin-top:1rem ;
+    padding: 1rem;
+}
+.movie-nav{
+    background-color: black;
+    color:aliceblue ;
+    padding: 5px;
+}
